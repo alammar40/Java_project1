@@ -4,8 +4,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        //ArrayList<String> results = new ArrayList<String>();
-        System.out.println("Hello, and Welcome to Lockers pvt. My name is Abdulrahman Alamar,");
+        System.out.println("Hello, and Welcome to Lockers pvt.");
         Scanner myObj = new Scanner(System.in);  // Create a Scanner object
         char user_option = '0';
         FileNames fileNames = new FileNames();
